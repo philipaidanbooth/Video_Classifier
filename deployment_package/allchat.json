@@ -1,0 +1,15 @@
+{
+    "type": "service_account",
+    "project_id": "props-media-warehouse",
+    "private_key_id": "45d1193dc3c717bfc435dabcbea546c0e7bd8e52",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWv0JbZNy7iXC3\nsdzgHC929xSZNf1XvP8bIA1ReSIgZcoJVSiF44M2LVbRtvZqz7Ss4LdexgnpZibu\nZsF9DQZU3pZHsHxrTBKm3Mw8cc4WTJB+VFcAPwPklY444Im9x3BitAsW6LuzqZqj\nPckAAqmW+JmrytatW89REXl5wvLNV481RsypJiX835FMODj2c/Hv0OVNF4b5AEXH\n1ZDGiqUItTFaFl8f0QC8FDOlhr3v1QFp6+1p86NrgI9xnMR2eyYz6tFPzAHOrX1+\n4x2odgwxhFfekZnLrzRCYNuaOkbXnvBohBb4arPqVIEHn6MXQ+P2P9gyCPfDj0Fp\nVMMkWHvzAgMBAAECggEAH63vWBQ1C+Vmn3K5psYBqocgnsl8KilTaOj9jftUsXrS\npzXM2JOLk750hFN9XpxthuNPqceFRs0vCRRXjt8RBAwiF0lN0XZTehIwfuo7AMci\nucAvZXXmWR5G8NUO/NQjHCx7RlHm/sYSbep7cGj0I7Vg1hsCOGjG2Kq/RNshfnEa\n9kmANdq7CPtgiKOlbfwICMd2G9Babd12wIZxOKVpCxiGNhRxdYRZzNptMK1P6Xyh\nNVL3gUeTEHi/ulAOvnBMXH3/425azfmDlMMaFtVwXcBxWB8j8/UX/vEihZ2DjoHG\nKHdHwwkj8rZh4rJNsJYA27lDf1Oy2zq99PeI3sEeoQKBgQD6nV2Vw4tVwsv1TeOU\n00MA4d116DJ1WTc3SMaEGLUgykN+gkxr3jMs1n/RnbMQhvLmv1mqrLtkJuj8NMp0\nLIRb4y/5J65eHFP+qWaJQ1d593v9FYNbVa6YHjA0jjIAHZsVYsS3mdKQQKJCOjyb\ny96HpmzELfjqXNle6PO6zcwHrQKBgQDbXJXl4014iSHeMNkWe+kTqu6yxrJGhgzu\nxk8VLS6MLJvRmHyJmxFmjyVUEsaiUf2tTw4OF5c+vLTNhDcDHZxDdnrBPanQR12V\nwe1OHwPmxPk7hmvfRBaJLm8avac5zeRhehySrXpnWO0eeB59htK76JsRq4mxSEUo\nhRsUPvuGHwKBgQCZOITy/268rDAOdeRiJRed/nlrkN7op/b+MdxM/t4eggrp2bfn\nax5Wl33mJkhIHnl7YhnsI1ceUDu5ln0AsgbqNugpqH0OxLsFw4QQ/78Hrqt7fB+n\nQ6dPEYXfW+Bt+avLU2t55O27jAin/Pr5NZeDz9hHyOOaRdIQGNSKrS/EsQKBgQCM\nBWBlep8T5qzosFOSB4wykrSFB1H6tEyDCbCnOszwivT3aBdumr4TsiHItad3K1D7\nFHBLTIGteTULzm5zHa6GXZVjziGcIkG5ey0n5aJO5sKUXWxz+nlMHYisEA0zV5qF\nIjYk5nkwiNHq1g/YXnwbmBGLyOw+bnw+riAn30AcTwKBgBZVgpy6F+HD/U93WKpD\n6JfYbW0ZVDlQYz8IK9Tn9BC3vA5TX1HissjtOO1stecXk1EijkMhYHpIk0FcpO+9\nzxLYKf964M749UjXCInLVPfE6KJnR3HmVF7JkYFpgSB2W68nkmeBFwYjoel2VI3v\n5y3URJ8ZsLuRbqtkKVCBkGI1\n-----END PRIVATE KEY-----\n",
+    "client_email": "vertex-video-classifier@props-media-warehouse.iam.gserviceaccount.com",
+    "client_id": "112440018806472996371",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-video-classifier%40props-media-warehouse.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+
+  
